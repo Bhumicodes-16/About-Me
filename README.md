@@ -1,39 +1,27 @@
-# About-Me
-Aspiring Full-Stack Developer with strong foundations in MERN stack, Data Structures &amp; Algorithms, and a growing interest in AI/ML.
+Hi 👋,
 
-**About Me**
+I'm transitioning from Web Development & DSA into Data Analytics,
+Data Engineering, and Data Science.
 
-I am a third-year B.Tech Computer Science student with a strong interest in developing scalable and efficient web applications. I have practical experience working with the MERN stack (MongoDB, Node.js, React.js) and enjoy building responsive, user-centric solutions. Alongside development, I actively strengthen my problem-solving abilities through Data Structures and Algorithms using Java. I am also exploring Artificial Intelligence and Machine Learning using Python to expand my understanding of intelligent systems and data-driven technologies.
+### What I'm currently learning
+- Python for Data Analysis
+- SQL
+- Pandas & NumPy
+- Power BI
+- Statistics
+- ETL & Data Pipelines
+- Data Warehousing
+- Machine Learning
 
----
+### My Data Journey
+📊 Data Analytics → ⚙️ Data Engineering → 🤖 Data Science
 
-**Technical Skills**
+### Featured Projects
+- Sales Analytics Dashboard
+- End-to-End ETL Pipeline
+- Customer Churn Prediction
+- E-commerce Data Analysis
 
-* **Programming Languages:** Java, Python, JavaScript
-* **Web Development:** React.js, Node.js, HTML, CSS
-* **Database:** MongoDB
-* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
-
----
-
-**Goals**
-
-* To become a skilled full-stack developer capable of building scalable and production-ready applications.
-* To achieve strong proficiency in Data Structures and Algorithms for technical problem-solving.
-* To develop practical expertise in Artificial Intelligence and Machine Learning.
-
----
-
-**Objectives**
-
-* Build and deploy end-to-end web applications using the MERN stack.
-* Consistently practice and solve DSA problems to improve coding efficiency.
-* Work on AI/ML-based projects using Python and relevant libraries.
-* Continuously enhance technical knowledge and stay aligned with industry trends.
-
----
-
-**Connect with Me**
-
-* LinkedIn: www.linkedin.com/in/bhumi-bhumi-2507083b3
+### Tech Stack
+Python | SQL | Pandas | NumPy | Power BI | PostgreSQL | Git | Docker
 
